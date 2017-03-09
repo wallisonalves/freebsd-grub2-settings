@@ -1,0 +1,1 @@
+# freebsd-grub2-settings
